@@ -1,4 +1,4 @@
-# 07-Project_1
+# LastFM_Analysis_Project
 # Team Name: Eff {Strings}
 
 ### - "A LastFM data exploration project." -
