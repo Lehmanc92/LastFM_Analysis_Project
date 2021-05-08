@@ -1,19 +1,23 @@
-# LastFM_Analysis_Project
+# 07-Project_1
 # Team Name: Eff {Strings}
 
 ### - "A LastFM data exploration project." -
 
-### __Members:__ Amber, Christian, Ishmael, Steve
+### __Members:__ Christian, Amber, Ishmael, Steve
 
 
 
 __Repo Owner:__ Christian
 
 
+__Repo Directory__
+
+* Input folder - contains csvs for the analysis
+* LastFM folder - contains jupyter notes for the overall project and a sub folder containing the individual contributions
+* Ouput folder - contains pngs of the graphs used for analysis
+* Team Organization Documents folder - used for the team for documentating our thoughts and process
 
 __Branches (Owner: Name)__
-
-
 
 * Amber: Amber_Top_Artists_Hungary - personal analysis notebook
 * Steve: Steve Analysis - personal analysis notebook
@@ -55,9 +59,7 @@ __Tools Used:__
 __Notebook Usage:__
 
 Any branch with a person's name on it is used by that individual to do their own research and analysis against the data.
-
 The notebook with "LastFM" is used for the overall project deliverables.
-
 
 
 __Data ETL Approach:__
@@ -72,15 +74,14 @@ We ended up cleaning this data by looking at the list of genres and grouping the
 
 Lastly we grabbed a GDP csv from the World Population Review website.  We also retrieved Lat and Long; Lat and Long were for a GMAP chart that did not make it into the project. 
 
- 
 
 
 __Data Analysis Approach:__
 
 After getting the data we wanted, we divided analysis effort of the data sets to come up with the graphs in each person's individual notebook.
 
- 
 
+ 
 __Outcome__
 
 We found that our Hypothesis did not correlate and that the GDP of country is not a determing factor in the listenership of LastFM.
